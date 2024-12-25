@@ -39,7 +39,7 @@ const Map<String, String> provincesData = {
 /// 中国城市信息
 const Map<String, dynamic> citiesData = {
   "110000": {
-    "110100": {"name": "北京城区", "alpha": "b"}
+    "110100": {"name": "北京市", "alpha": "b"}
   },
   "110100": {
     "110101": {"name": "东城区", "alpha": "d"},
@@ -60,7 +60,7 @@ const Map<String, dynamic> citiesData = {
     "110119": {"name": "延庆区", "alpha": "y"}
   },
   "120000": {
-    "120100": {"name": "天津城区", "alpha": "t"}
+    "120100": {"name": "天津市", "alpha": "t"}
   },
   "120100": {
     "120101": {"name": "和平区", "alpha": "h"},
@@ -1028,7 +1028,7 @@ const Map<String, dynamic> citiesData = {
     "232764": {"name": "呼中区", "alpha": "h"}
   },
   "310000": {
-    "310100": {"name": "上海城区", "alpha": "s"}
+    "310100": {"name": "上海市", "alpha": "s"}
   },
   "310100": {
     "310101": {"name": "黄浦区", "alpha": "h"},
@@ -2982,8 +2982,7 @@ const Map<String, dynamic> citiesData = {
     "469030": {"name": "琼中黎族苗族自治县", "alpha": "q"}
   },
   "500000": {
-    "500100": {"name": "重庆城区", "alpha": "c"},
-    "500200": {"name": "重庆郊县", "alpha": "c"}
+    "500100": {"name": "重庆市", "alpha": "c"},
   },
   "500100": {
     "500101": {"name": "万州区", "alpha": "w"},
